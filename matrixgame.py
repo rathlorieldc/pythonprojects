@@ -1,8 +1,6 @@
 '''
 Created on Sep 12, 2021
 
-@author: Deysha Rivera, SDEV 300
-
 Program will accept phone and zip code information from the user and verify format, then
 prompt the user to play the matrix game. Program will prompt the user to input two 3 x 3 matrices,
 prompt to perform different matrix operations, and display the results. Program implements numpy and
