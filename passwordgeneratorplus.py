@@ -1,8 +1,6 @@
 '''
 Created on Aug 27, 2021
 
-@author: Deysha Rivera, SDEV 300
-
 Create a menu-driven Python application providing users with the ability to perform several math
 and security related functions.
 
