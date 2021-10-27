@@ -1,7 +1,7 @@
 """
 Created on Sep 19, 2021
-Deysha Rivera
-SDEV 300 Lab 5
+
+Note: Requires files Housing.CSV and PopChange.csv!
 
 Program purpose: Use pandas to read data about housing and population from CSV files.
 Perform data analysis on selected columns and display histograms.
