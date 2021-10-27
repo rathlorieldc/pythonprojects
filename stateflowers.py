@@ -1,7 +1,7 @@
 '''
 Created on Sep 3, 2021
 
-@author: Deysha Rivera - SDEV 300, Project 3
+Note: This project requires the files flowers.zip and population.csv!
 
 Create a project that allows the user to display state, state capital, state flower,
 and overall population for all 50 states. The program allows the user to search for a
